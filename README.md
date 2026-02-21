@@ -1,8 +1,8 @@
 ![Logo](https://github.com/user-attachments/assets/7475b85d-2cc4-4683-ba57-0bdb733ce502)
 
 
-# SUNLU Bambu Lab P2S, X1C, & H2 Series Profiles
-### Precision-tuned **Bambu Lab P2S, X1C, & H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
+# SUNLU Bambu Lab Profiles
+### Precision-tuned **Bambu Lab P1S, P2S, X1C, & H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
 [![version][versionbadge]][versionlink] [![release][releasebadge]][releaselink] [![starsbadge][starsbadge]][stars]
 
 ### Show Your Support on MakerWorld!
