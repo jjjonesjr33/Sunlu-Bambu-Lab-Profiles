@@ -57,7 +57,7 @@ Whether you’re printing functional parts or longer production runs, these prof
 Follow these steps to import the SUNLU H2 Series profiles into your Bambu Studio setup:
 
 1. **Download the profiles**  
-   - Go to the [Releases](https://github.com/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles/releases) page and download the latest `.zip` file.
+   - Go to the [Releases](https://github.com/jjjonesjr33/Sunlu-Bambu-Lab-Profiles/releases) page and download the latest `.zip` file.
 
 2. **Extract the files**  
    - Open the downloaded archive and extract all profile files to a folder on your computer.
@@ -117,7 +117,7 @@ This repository is licensed under the
 [socialslink]: https://jjjonesjr33.com
 [socialsbadge]: https://img.shields.io/badge/Follow%20My-Socials-000000?style=for-the-badge&logo=google-chrome&logoColor=white
 
-[makerworldlink]: https://makerworld.com/en/models/2314579-jones-sunlu-bambu-lab-h2-series-profiles#profileId-2527197
+[makerworldlink]: https://makerworld.com/en/@jjjonesjr33
 [makerworldbadge]: https://img.shields.io/badge/Support%20on-MakerWorld-006400?style=for-the-badge
 
 [versionlink]: https://github.com/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles/releases
