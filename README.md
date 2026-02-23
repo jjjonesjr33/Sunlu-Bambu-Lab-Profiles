@@ -49,12 +49,14 @@ Whether you’re printing functional parts or longer production runs, these prof
 - Optimized filament profiles for **Bambu Lab H2 Series**
 - Tuned specifically for **SUNLU filament materials**
 - Balanced settings for **strength, speed, and print quality**
-- Suitable for **AMS / AMS 2** workflows
+- Suitable for **HT / AMS / AMS 2** workflows
 - Drop-in ready profiles — no guesswork
 
 ## ⚙️ How to Add Profiles to Bambu Studio
+> [!TIP]
+> For a more detailed description on how to install the profiles please view the profiles on [Makerworld](https://makerworld.com/en/collections/21676911-sunlu-print-profiles)
 
-Follow these steps to import the SUNLU H2 Series profiles into your Bambu Studio setup:
+### Follow these steps to import the SUNLU profiles into your Bambu Studio setup:
 
 1. **Download the profiles**  
    - Go to the [Releases](https://github.com/jjjonesjr33/Sunlu-Bambu-Lab-Profiles/releases) page and download the latest `.zip` file.
@@ -74,7 +76,14 @@ Follow these steps to import the SUNLU H2 Series profiles into your Bambu Studio
 > [!WARNING]
 > Keep this folder handy — you can re-import any time you want to restore or update profiles.
 >
-> These were properly set up, imported, and tested with PETG and ASA. I still need to test the PLA series, but all profiles were pulled from the manufacturer’s website and the Bambu Labs GitHub repo. TPU and ABS still need to be added, but this should cover a good chunk of what was missing.
+> - Every profile has been **completely redone** and now strictly follows the official **SUNLU TDS (Technical Data Sheets)** for each material. All temperature ranges, cooling behavior, chamber guidance, and material-specific recommendations are aligned with the manufacturer’s published specifications.
+>
+> - The original community profiles that were previously added to the official **Bambu Lab GitHub repository** (initially contributed by u/RikshaDriver) served as historical reference points only. My current versions have been rebuilt, validated against SUNLU’s published data, and then fully adapted for proper compatibility across the **H2 Series, P1S, P2S, and X1C** machines.
+>
+> - Profiles that were not previously available in the repo — including **PETG HF, TPU (85A/90A/95A), ABS variants, and other engineering materials** — have been developed directly from SUNLU’s official documentation and real-world testing on my machines.
+>
+> - Carbon fiber variants and additional specialty materials are being added as they are validated. I only publish profiles I’ve either personally tested or confirmed against official TDS guidance to ensure consistency, safety, and performance.
+
 
 ## 🧪 Intended Use
 
