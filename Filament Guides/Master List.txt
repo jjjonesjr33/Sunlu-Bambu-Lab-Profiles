@@ -1,0 +1,169 @@
+SUNLU Filament Master Specifications (Representative Per Material)
+
+PLA (Standard PLA)
+- Tensile Strength: ~61 MPa
+- Elongation at Break: ~3.1%
+- Flexural Strength: ~83 MPa
+- Flexural Modulus: ~2240 MPa
+- Impact Strength (IZOD X-Y): ~3.9 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+PLA+
+- Tensile Strength: ~53 MPa
+- Elongation at Break: ~8–10%
+- Flexural Strength: ~80 MPa
+- Flexural Modulus: ~2600–2800 MPa
+- Impact Strength (IZOD): ~15–20 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+PLA+ 2.0
+- Tensile Strength: ~53.4 MPa
+- Elongation at Break: ~20.3%
+- Flexural Strength: ~81.8 MPa
+- Flexural Modulus: ~2740 MPa
+- Impact Strength (IZOD Notched): ~19.8 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+Meta PLA (PLA Meta / PLA Macaron / PLA Series)
+- Tensile Strength: ~50–55 MPa
+- Elongation at Break: ~8–12%
+- Flexural Strength: ~75–85 MPa
+- Flexural Modulus: ~2500–2800 MPa
+- Impact Strength: ~12–20 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+Matte PLA
+- Tensile Strength: ~43–50 MPa
+- Elongation at Break: ~3–6%
+- Flexural Strength: ~65–75 MPa
+- Flexural Modulus: ~3000–3600 MPa
+- Impact Strength: ~3–6 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+High-Speed PLA
+- Tensile Strength: ~54 MPa
+- Elongation at Break: ~13%
+- Flexural Strength: ~75 MPa
+- Flexural Modulus: ~2350 MPa
+- Impact Strength: ~5–6 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+High-Speed PLA Marble
+- Tensile Strength: ~50–55 MPa
+- Elongation at Break: ~10–15%
+- Flexural Strength: ~70–80 MPa
+- Flexural Modulus: ~2300–2600 MPa
+- Impact Strength: ~4–6 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+PETG
+- Tensile Strength: ~48–50 MPa
+- Elongation at Break: ~30–35%
+- Flexural Strength: ~75–80 MPa
+- Flexural Modulus: ~2000–2700 MPa
+- Impact Strength: ~3–5 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+High-Speed Matte PETG
+- Tensile Strength: ~48 MPa
+- Elongation at Break: ~33%
+- Flexural Strength: ~78 MPa
+- Flexural Modulus: ~2700 MPa
+- Impact Strength: ~4.1 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+TPU (Flexible Filament)
+- Tensile Strength: ~25–40 MPa
+- Elongation at Break: ~300–500%
+- Flexural Strength: N/A
+- Flexural Modulus: Low (Highly Elastic)
+- Impact Strength: Very High (Elastic Material)
+- Diameter: 1.75 mm ±0.02 mm
+
+ABS
+- Tensile Strength: ~40–45 MPa
+- Elongation at Break: ~10–20%
+- Flexural Strength: ~60–70 MPa
+- Flexural Modulus: ~2000–2300 MPa
+- Impact Strength: ~10–20 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+Easy ABS (E-ABS)
+- Tensile Strength: ~35–45 MPa
+- Elongation at Break: ~15–25%
+- Flexural Strength: ~60–70 MPa
+- Flexural Modulus: ~2000–2400 MPa
+- Impact Strength: ~15–25 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+ASA
+- Tensile Strength: ~45–50 MPa
+- Elongation at Break: ~10–20%
+- Flexural Strength: ~70–75 MPa
+- Flexural Modulus: ~2200–2600 MPa
+- Impact Strength: ~10–15 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+Silk PLA (Shiny / Multi-Color Silk)
+- Tensile Strength: ~35–45 MPa
+- Elongation at Break: ~4–8%
+- Flexural Strength: ~60–70 MPa
+- Flexural Modulus: ~2500–3000 MPa
+- Impact Strength: ~3–5 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+Wood PLA
+- Tensile Strength: ~30–40 MPa
+- Elongation at Break: ~3–6%
+- Flexural Strength: ~60–65 MPa
+- Flexural Modulus: ~3000 MPa
+- Impact Strength: ~3–5 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+PLA Carbon Fiber (PLA-CF)
+- Tensile Strength: ~60–70 MPa
+- Elongation at Break: ~3–5%
+- Flexural Strength: ~90–110 MPa
+- Flexural Modulus: ~4000–6000 MPa
+- Impact Strength: Moderate
+- Diameter: 1.75 mm ±0.02 mm
+
+PETG Carbon Fiber (PETG-CF)
+- Tensile Strength: ~60–70 MPa
+- Elongation at Break: ~10–15%
+- Flexural Strength: Higher than standard PETG
+- Flexural Modulus: Significantly Increased
+- Impact Strength: Moderate
+- Diameter: 1.75 mm ±0.02 mm
+
+Nylon-6 Carbon Fiber (PA6-CF)
+- Tensile Strength: ~170 MPa
+- Elongation at Break: ~10%
+- Flexural Strength: ~245 MPa
+- Flexural Modulus: ~11000 MPa
+- Impact Strength (IZOD X-Y): ~9.7 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+Nylon-12 Carbon Fiber (PA12-CF)
+- Tensile Strength: ~100 MPa
+- Elongation at Break: ~12%
+- Flexural Strength: ~163 MPa
+- Flexural Modulus: ~7000 MPa
+- Impact Strength (IZOD X-Y): ~13 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+PC-ABS
+- Tensile Strength: ~40 MPa
+- Elongation at Break: ~8%
+- Flexural Strength: ~70 MPa
+- Flexural Modulus: ~2300 MPa
+- Impact Strength (IZOD X-Y): ~70 kJ/m²
+- Diameter: 1.75 mm ±0.02 mm
+
+PC (Polycarbonate)
+- Tensile Strength: ~50 MPa
+- Elongation at Break: ~25%
+- Flexural Strength: ~77 MPa
+- Flexural Modulus: ~2050 MPa
+- Impact Strength: Very High
+- Diameter: 1.75 mm ±0.02 mm
