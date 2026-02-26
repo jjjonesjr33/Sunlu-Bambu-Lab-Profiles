@@ -282,7 +282,7 @@
         "none"
     ],
     "filament_settings_id": [
-        "SUNLU PETG BASIC GEN2 @Bambu Lab H2C 0.4 nozzle"
+        "SUNLU PETG BASIC GEN2 @Bambu Lab A1 0.4 nozzle"
     ],
     "filament_shrink": [
         "0.1%"
@@ -369,7 +369,7 @@
         "0",
         "0"
     ],
-    "name": "SUNLU PETG BASIC GEN2 @Bambu Lab H2C 0.4 nozzle",
+    "name": "SUNLU PETG BASIC GEN2 @Bambu Lab A1 0.4 nozzle",
     "no_slow_down_for_cooling_on_outwalls": [
         "0"
     ],
@@ -446,4 +446,5 @@
         "0 0 0 0 0 0",
         "0 0 0 0 0 0"
     ]
+
 }    
