@@ -2,7 +2,7 @@
 
 
 # SUNLU Bambu Lab Profiles
-### Precision-tuned **Bambu Lab P1S, P2S, X1C, & H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
+### Precision-tuned **Bambu Lab P Series, X1 Series, & H2 Series filament profiles** optimized specifically for **SUNLU filaments**.
 [![version][versionbadge]][versionlink] [![release][releasebadge]][releaselink] [![starsbadge][starsbadge]][stars]
 
 ### Show Your Support on MakerWorld!
@@ -35,7 +35,7 @@ If you find these profiles useful and want to support my work or follow future p
 > [!IMPORTANT] 
 > SUNLU filaments each have their own extrusion and thermal characteristics.  
 
-These profiles are carefully tuned to match those behaviors on the **Bambu Lab H2 Series hotends**, helping ensure:
+These profiles are carefully tuned to match those behaviors on the **Bambu Lab P Series, X1 Series, & H2 Series hotends**, helping ensure:
 
 - Consistent extrusion
 - Predictable layer bonding
