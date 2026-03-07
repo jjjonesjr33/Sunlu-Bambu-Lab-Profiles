@@ -46,7 +46,7 @@ Whether you’re printing functional parts or longer production runs, these prof
 
 ## ✅ What’s Included
 
-- Optimized filament profiles for **Bambu Lab H2 Series**
+- Optimized filament profiles for **Bambu Lab P Series, X1 Series, & H2 Series**
 - Tuned specifically for **SUNLU filament materials**
 - Balanced settings for **strength, speed, and print quality**
 - Suitable for **HT / AMS / AMS 2** workflows
@@ -118,10 +118,10 @@ This repository is licensed under the
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles&type=Date&theme=dark)](https://www.star-history.com/#jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=jjjonesjr33/Sunlu-Bambu-Lab-Profiles&type=Date&theme=dark)](https://www.star-history.com/#jjjonesjr33/Sunlu-Bambu-Lab-Profiles&Date)
 
-[stars]: https://github.com/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles/stargazers
-[starsbadge]: https://img.shields.io/github/stars/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBzdHlsZT0iZmlsbDojY2NjY2NjIiBkPSJNOCAuMjVhLjc1Ljc1IDAgMCAxIC42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAgMSAuNDE2IDEuMjc5bC0zLjA0NiAyLjk3LjcxOSA0LjE5MmEuNzUxLjc1MSAwIDAgMS0xLjA4OC43OTFMOCAxMi4zNDdsLTMuNzY2IDEuOThhLjc1Ljc1IDAgMCAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwIDEgLjQxNi0xLjI4bDQuMjEtLjYxMUw3LjMyNy42NjhBLjc1Ljc1IDAgMCAxIDggLjI1Wm0wIDIuNDQ1TDYuNjE1IDUuNWEuNzUuNzUgMCAwIDEtLjU2NC40MWwtMy4wOTcuNDUgMi4yNCAyLjE4NGEuNzUuNzUgMCAwIDEgLjIxNi42NjRsLS41MjggMy4wODQgMi43NjktMS40NTZhLjc1Ljc1IDAgMCAxIC42OTggMGwyLjc3IDEuNDU2LS41My0zLjA4NGEuNzUuNzUgMCAwIDEgLjIxNi0uNjY0bDIuMjQtMi4xODMtMy4wOTYtLjQ1YS43NS43NSAwIDAgMS0uNTY0LS40MUw4IDIuNjk0WiI+PC9wYXRoPjwvc3ZnPg==&label=Stars&color=ffffff
+[stars]: https://github.com/jjjonesjr33/Sunlu-Bambu-Lab-Profiles/stargazers
+[starsbadge]: https://img.shields.io/github/stars/jjjonesjr33/Sunlu-Bambu-Lab-Profiles?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBzdHlsZT0iZmlsbDojY2NjY2NjIiBkPSJNOCAuMjVhLjc1Ljc1IDAgMCAxIC42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAgMSAuNDE2IDEuMjc5bC0zLjA0NiAyLjk3LjcxOSA0LjE5MmEuNzUxLjc1MSAwIDAgMS0xLjA4OC43OTFMOCAxMi4zNDdsLTMuNzY2IDEuOThhLjc1Ljc1IDAgMCAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwIDEgLjQxNi0xLjI4bDQuMjEtLjYxMUw3LjMyNy42NjhBLjc1Ljc1IDAgMCAxIDggLjI1Wm0wIDIuNDQ1TDYuNjE1IDUuNWEuNzUuNzUgMCAwIDEtLjU2NC40MWwtMy4wOTcuNDUgMi4yNCAyLjE4NGEuNzUuNzUgMCAwIDEgLjIxNi42NjRsLS41MjggMy4wODQgMi43NjktMS40NTZhLjc1Ljc1IDAgMCAxIC42OTggMGwyLjc3IDEuNDU2LS41My0zLjA4NGEuNzUuNzUgMCAwIDEgLjIxNi0uNjY0bDIuMjQtMi4xODMtMy4wOTYtLjQ1YS43NS43NSAwIDAgMS0uNTY0LS40MUw4IDIuNjk0WiI+PC9wYXRoPjwvc3ZnPg==&label=Stars&color=ffffff
 
 [socialslink]: https://jjjonesjr33.com
 [socialsbadge]: https://img.shields.io/badge/Follow%20My-Socials-000000?style=for-the-badge&logo=google-chrome&logoColor=white
@@ -129,11 +129,11 @@ This repository is licensed under the
 [makerworldlink]: https://makerworld.com/en/@jjjonesjr33
 [makerworldbadge]: https://img.shields.io/badge/Support%20on-MakerWorld-006400?style=for-the-badge
 
-[versionlink]: https://github.com/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles/releases
-[versionbadge]: https://img.shields.io/github/manifest-json/v/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles?filename=manifest.json&color=slateblue&style=for-the-badge
+[versionlink]: https://github.com/jjjonesjr33/Sunlu-Bambu-Lab-Profiles/releases
+[versionbadge]: https://img.shields.io/github/manifest-json/v/jjjonesjr33/Sunlu-Bambu-Lab-Profiles?filename=manifest.json&color=slateblue&style=for-the-badge
 
-[releaselink]: https://github.com/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles/releases
-[releasebadge]: https://img.shields.io/github/v/release/jjjonesjr33/SUNLU-Bambu-Lab-H2-Series-Profiles?style=for-the-badge&logo=github&logoColor=ccc
+[releaselink]: https://github.com/jjjonesjr33/Sunlu-Bambu-Lab-Profiles/releases
+[releasebadge]: https://img.shields.io/github/v/release/jjjonesjr33/Sunlu-Bambu-Lab-Profiles?style=for-the-badge&logo=github&logoColor=ccc
 
 [amazonbuylink]: https://amzn.to/4anVmoX
 [amazonbuybadge]: https://img.shields.io/badge/Buy%20On-Amazon-000000?style=for-the-badge&labelColor=808080&logo=&logoColor=ffffff
@@ -176,9 +176,6 @@ This repository is licensed under the
 
 [discordlink]: https://discord.com/invite/3hkWMry
 [discordbadge]: https://img.shields.io/discord/541574294656909312?style=for-the-badge&logo=discord&logoColor=white&color=5865F2
-
-[socialslink]: https://jjjonesjr33.com
-[socialsbadge]: https://img.shields.io/badge/Socials-JJJonesJr33-black?style=for-the-badge&logo=rss&logoColor=white
 
 [JJJonesJr33link]: https://github.com/jjjonesjr33
 [JJJonesJr33badge]: https://img.shields.io/badge/JJJonesJr33-GitHub-blue?style=for-the-badge&logo=github&logoColor=white
